@@ -5,3 +5,4 @@
 - Jerry Liang
 
 ##Github Pages Link
+https://jevanliang.github.io/Lab6/

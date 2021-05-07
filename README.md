@@ -4,5 +4,5 @@
 - Trai Pham
 - Jerry Liang
 
-##Github Pages Link
+##Github Pages Link <br>
 https://jevanliang.github.io/Lab6/
